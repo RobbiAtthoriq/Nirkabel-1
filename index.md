@@ -9,4 +9,5 @@ WPA-PSK (Wi-Fi Protected Access – Pre Shared Key) adalah pengamanan jaringan n
 WPA2 tujuan dari sertifikasi adalah untuk mendukung wajib tambahan fitur keamanan standar IEEE 802.11i yang tidak sudah termasuk untuk produk-produk yang mendukung WPA.
 ## MAC Filter
 MAC Address Filtering merupakan metode filtering untuk membatasi hak akses dari MAC Address yang bersangkutanHampir setiap wireless access point maupun router difasilitasi dengan keamanan MAC Filtering. 
-![Image](11.png)
+![Image]https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIicLNNuXeicaQC5Sf5u73AGjB4yqclG6zGQ&usqp=CAU
+![Image](images.jpeg)
